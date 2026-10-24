@@ -19,6 +19,7 @@ Based in Riyadh, Saudi Arabia. I combine hands-on hospital operations with data 
 |---|---|
 | [Health Improvement Programs Analysis](https://github.com/yosras-dotcomAi/health-improvement-programs-analysis) | Python analysis comparing patients who joined health improvement programs with those who did not |
 | [1,000-Bed Hospital Case Study](https://github.com/yosras-dotcomAi/1000-Bed-Hospital-) | Bed capacity, ICU pressure, and ED flow analysis for a fictional hospital |
+| [Hajj Season Medical Supply Readiness](https://github.com/yosras-dotcomAi/hajj-supply-readiness) | Supply planning simulation for a fictional Hajj field hospital: where plans built on a normal day break down at peak demand |
 | [Healthcare Data Basics](https://github.com/yosras-dotcomAi/healthcare-data-basics) | Practice exercises on a healthcare dataset |
 
 ## 🎓 Learning & Credentials
