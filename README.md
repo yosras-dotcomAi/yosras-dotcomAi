@@ -19,6 +19,7 @@ Based in Riyadh, Saudi Arabia. I combine hands-on hospital operations with data 
 |---|---|
 | [Access-Site Infection After PCI: STEMI vs Elective](https://github.com/yosras-dotcomAi/cath-lab-access-site-infection) | Cath lab infection surveillance on simulated data calibrated to published UK audit figures: Python analysis with exact confidence intervals, a control chart, and SQL queries |
 | [Hajj Season Medical Supply Readiness](https://github.com/yosras-dotcomAi/hajj-supply-readiness) | Supply planning simulation for a fictional Hajj field hospital: where plans built on a normal day break down at peak demand |
+| [Patient Experience Dashboard (live)](https://github.com/yosras-dotcomAi/Patient-Satisfaction-Dashboard) | NHS-style Friends and Family Test analysis on simulated data: logistic regression of what drives patient experience, plus an interactive Streamlit dashboard anyone can open online |
 | [1,000-Bed Hospital Case Study](https://github.com/yosras-dotcomAi/1000-Bed-Hospital-) | Bed capacity, ICU pressure, and ED flow analysis for a fictional hospital |
 | [Health Improvement Programs Analysis](https://github.com/yosras-dotcomAi/health-improvement-programs-analysis) | Python analysis comparing patients who joined health improvement programs with those who did not |
 | [Healthcare Data Basics](https://github.com/yosras-dotcomAi/healthcare-data-basics) | Practice exercises on a healthcare dataset |
