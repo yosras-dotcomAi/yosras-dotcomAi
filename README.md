@@ -1,4 +1,3 @@
-<!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,100:3B8FD9&height=170&section=header&text=Yosra%20El%20Nagar&fontSize=42&fontColor=ffffff&animation=fadeIn" alt="Yosra El Nagar banner" />
 </p>
@@ -17,65 +16,62 @@
 
 ## 🩺 → 📊 My story in three lines
 
-I spent **10+ years in cardiac catheterization and critical care**, running a cath lab where supplies, cases and documentation had to be right every single day.
+I spent **10+ years in cardiac catheterization and critical care**, running a cath lab where supplies, cases and infection control had to be right every single day.
 That taught me how hospitals really work, and where their data goes missing.
-Now I build **analytics projects that turn healthcare data into decisions**: dashboards, KPI models and market sizing.
+Now I build **healthcare analytics projects that turn hospital data into decisions**: market models, simulations, risk engines and dashboards.
 
 ## 🧬 What the cath lab taught me about data
 
 | In the cath lab | In analytics |
 |---|---|
-| Tracking implants, stock and expiry dates | Inventory dashboards and KPI validation |
-| Documenting every case so it survives an audit | Clean, structured, trustworthy datasets |
+| Planning supplies so nothing runs out on the busiest day | Supply simulations that stress-test plans at peak demand |
+| Watching infection and complication rates | Dashboards that make safety metrics visible |
+| Deciding which patients need attention first | Risk stratification and prioritization scoring |
 | Explaining protocols to doctors and teams | Turning numbers into stories executives act on |
-| Deciding what matters under pressure | Choosing the few KPIs that actually move outcomes |
 
 ---
 
 ## 🚀 Featured projects
 
-### 🫀 GCC TAVI Market Opportunity Model
-> How big is the transcatheter aortic valve opportunity across the six Gulf countries?
-
-An interactive what-if model that follows the patient funnel from the 75+ population to the eligible pool, procedures, market value and profit. It includes published uncertainty ranges, a sensitivity grid, and a reality check against Gulf registry data.
+### 🫀 [TAVI-GCC-market-opportunity-mode](https://github.com/yosras-dotcomAi/TAVI-GCC-market-opportunity-mode)
+End-to-end commercial analytics and market sizing model for TAVI across the GCC. It combines a clinical funnel methodology, hospital prioritization scoring and a live dashboard, with uncertainty ranges and a reality check against published Gulf registry data.
 
 **Base case:** 9,478 eligible patients · $18.4M annual market value · Saudi Arabia holds about 65% of the 75+ population.
 
 `Python` `Streamlit` `Plotly`
 
-[▶ Live dashboard](https://tavi-gcc-market-opportunity-mode-iy7nxbmcjkkcg6eudp7aud.streamlit.app/) · [Code](https://github.com/yosras-dotcomAi/REPO-NAME) · [Slides](SLIDESHARE-LINK)
+[▶ Live dashboard](https://tavi-gcc-market-opportunity-mode-iy7nxbmcjkkcg6eudp7aud.streamlit.app/) · [Code](https://github.com/yosras-dotcomAi/TAVI-GCC-market-opportunity-mode) · [Slides](SLIDESHARE-LINK)
 
 *Built only from public data. Independent project, not affiliated with any manufacturer or employer.*
 
 ---
 
-### 🏥 1,000-Bed Hospital Capacity Case Study
-A fictional hospital used to practise strategic healthcare analytics: bed capacity, operational performance, an Excel KPI validation model for 10 executive KPIs, and an executive dashboard in Power BI.
+### 🕋 [hajj-supply-readiness](https://github.com/yosras-dotcomAi/hajj-supply-readiness)
+Simulation of medical supply planning for a fictional Hajj field hospital: where plans built on a normal day break down at 5x peak demand. Synthetic data.
 
-`Excel` `Power BI`
+`Python` `Power BI`
 
-[Code and files](https://github.com/yosras-dotcomAi/1000-Bed-Hospital-)
-
-### 📈 Health Improvement Programs Analysis
-Do patients who join health improvement programs do better than those who don't? Python scripts, matplotlib charts and a bilingual README on synthetic data.
-
-`Python` `pandas` `matplotlib`
-
-[Code](https://github.com/yosras-dotcomAi/health-improvement-programs-analysis)
-
-### 🤖 AI in Healthcare
-Applying project management skills and AI ideas to improve patient outcomes and operational efficiency.
-
-[Code](https://github.com/yosras-dotcomAi/AI-in-health-care-)
-
-### ⚖️ BMI Calculator
-A Python tool that takes height and weight and classifies BMI using World Health Organization categories.
+### 🫀 [CardioMetabolic-LOS-Engine](https://github.com/yosras-dotcomAi/CardioMetabolic-LOS-Engine)
+Clinical risk stratification and hospital length-of-stay (LOS) impact engine, built with Python for healthcare operational transformation.
 
 `Python`
 
-[Code](https://github.com/yosras-dotcomAi/BMI-calculator)
+### 🧫 [cath-lab-access-site-infection](https://github.com/yosras-dotcomAi/cath-lab-access-site-infection)
+An infection control dashboard that explains the infection rate step by step, from my own cath lab experience.
 
-**Also built:** a Hajj medical supplies inventory dashboard (Excel and Power BI) and a Cath Lab Case Tracker workbook with dropdown validation and a pivot-ready structure.
+`Python`
+
+### 🏥 [1000-Bed-Hospital-](https://github.com/yosras-dotcomAi/1000-Bed-Hospital-)
+A fictional 1,000-bed hospital case study on bed capacity and operational performance, built to show strategic analysis skills in healthcare. Includes an Excel KPI validation model and an executive dashboard.
+
+`Excel` `Power BI`
+
+### 📈 [health-improvement-programs-analysis](https://github.com/yosras-dotcomAi/health-improvement-programs-analysis)
+Comparison between patients who take part in health improvement programs and those who don't.
+
+`Python` `matplotlib`
+
+➡️ [See all my repositories](https://github.com/yosras-dotcomAi?tab=repositories)
 
 ---
 
@@ -92,7 +88,7 @@ A Python tool that takes height and weight and classifies BMI using World Health
   <img src="https://img.shields.io/badge/Git_&_GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-**Healthcare domain:** cardiac cath lab operations · supply and inventory records · Epic EHR analytics
+**Healthcare domain:** cardiac cath lab operations · infection control · supply and inventory planning · Epic EHR analytics
 
 ## 🎓 Learning and certifications
 
