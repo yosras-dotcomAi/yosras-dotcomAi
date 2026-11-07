@@ -1,62 +1,117 @@
-<div align="center">
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,100:3B8FD9&height=170&section=header&text=Yosra%20El%20Nagar&fontSize=42&fontColor=ffffff&animation=fadeIn" alt="Yosra El Nagar banner" />
+</p>
 
-# Hi, I'm Yosra El Nagar 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=3B8FD9&center=true&vCenter=true&width=640&lines=أهلاً+%F0%9F%91%8B+Hi%2C+I'm+Yosra;Cath+lab+nurse+leader+%E2%86%92+healthcare+data+analyst;I+turn+hospital+data+into+decisions;Python+%C2%B7+Power+BI+%C2%B7+Excel+%C2%B7+SQL" alt="Typing intro" />
+</p>
 
-### 🫀 Cath lab nurse leader turning bedside experience into healthcare data insights
-
-*10+ years in cardiac cath lab and critical care operations · Riyadh, Saudi Arabia · Open to remote healthcare analytics roles*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/yosra-nagar-9a6862118/)
-[![Live dashboard](https://img.shields.io/badge/Live%20dashboard-Try%20it-2a9d8f?style=for-the-badge)](https://patient-satisfaction-dashboard-9tk3fmyv7wdcfbpbeqdbapp.streamlit.app/)
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/yosra-nagar-9a6862118/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <img src="https://img.shields.io/badge/Based_in-Riyadh_🇸🇦-0B1F3A?style=for-the-badge" alt="Riyadh" />
+  <img src="https://img.shields.io/badge/Open_to-Remote_Healthcare_Analytics-3B8FD9?style=for-the-badge" alt="Open to remote healthcare analytics" />
+</p>
 
 ---
 
-## 💡 Why a nurse in data?
+## 🩺 → 📊 My story in three lines
 
-| 🩺 I know where the data comes from | 🎯 I know which decisions it supports | ❓ I know what questions matter |
-|---|---|---|
-| I have worked the cath lab floor, managed its supplies, and seen how a record gets created in real life. | Stock levels, staffing, infection control, patient flow: I have made these calls, so I build analysis that answers them. | A good question at the bedside is not always a good question in a spreadsheet. I translate between the two. |
+I spent **10+ years in cardiac catheterization and critical care**, running a cath lab where supplies, cases and documentation had to be right every single day.
+That taught me how hospitals really work, and where their data goes missing.
+Now I build **analytics projects that turn healthcare data into decisions**: dashboards, KPI models and market sizing.
 
-## 🛠 My toolbox
+## 🧬 What the cath lab taught me about data
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-130654?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-3776AB?style=flat-square)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+| In the cath lab | In analytics |
+|---|---|
+| Tracking implants, stock and expiry dates | Inventory dashboards and KPI validation |
+| Documenting every case so it survives an audit | Clean, structured, trustworthy datasets |
+| Explaining protocols to doctors and teams | Turning numbers into stories executives act on |
+| Deciding what matters under pressure | Choosing the few KPIs that actually move outcomes |
+
+---
 
 ## 🚀 Featured projects
 
-> Every project uses **simulated data** (no real patient or hospital data), and each README explains how the numbers were chosen.
+### 🫀 GCC TAVI Market Opportunity Model
+> How big is the transcatheter aortic valve opportunity across the six Gulf countries?
 
-| | Project | What it shows |
-|---|---|---|
-| 🫀 | **[Access-Site Infection After PCI](https://github.com/yosras-dotcomAi/cath-lab-access-site-infection)** | STEMI vs elective cath lab infection surveillance, calibrated to published UK audit figures. Exact confidence intervals, a control chart, and 10 SQL queries. |
-| 🕌 | **[Hajj Season Medical Supply Readiness](https://github.com/yosras-dotcomAi/hajj-supply-readiness)** | A supply plan that works on a normal day, and where it breaks at 5x peak demand. Simulation with 200 Monte Carlo runs. |
-| 📊 | **[Patient Experience Dashboard](https://github.com/yosras-dotcomAi/Patient-Satisfaction-Dashboard)** 🟢 *live* | NHS-style Friends and Family Test analysis, what drives patient satisfaction, and an interactive dashboard you can open online. |
-| 🏥 | **[1,000-Bed Hospital Case Study](https://github.com/yosras-dotcomAi/1000-Bed-Hospital-)** | Bed capacity, ICU pressure, and ED flow for a fictional hospital. |
-| 📈 | **[Health Improvement Programs Analysis](https://github.com/yosras-dotcomAi/health-improvement-programs-analysis)** | Do program participants improve more? Adjusted analysis, effect sizes, and an honest look at what simulated data can and cannot prove. |
-| 🌱 | **[Healthcare Data Basics](https://github.com/yosras-dotcomAi/healthcare-data-basics)** | Where it started: first Python exercises on a hospital dataset. |
+An interactive what-if model that follows the patient funnel from the 75+ population to the eligible pool, procedures, market value and profit. It includes published uncertainty ranges, a sensitivity grid, and a reality check against Gulf registry data.
 
-## 🎯 Right now
+**Base case:** 9,478 eligible patients · $18.4M annual market value · Saudi Arabia holds about 65% of the 75+ population.
 
-- 🔨 Building a **Power BI dashboard** for the cath lab infection project
-- 📚 Preparing for **Microsoft PL-300** (Power BI Data Analyst)
-- 🔍 Looking for a healthcare analytics role where clinical knowledge and data skills meet
+`Python` `Streamlit` `Plotly`
 
-## 🎓 Learning & credentials
+[▶ Live dashboard](https://tavi-gcc-market-opportunity-mode-iy7nxbmcjkkcg6eudp7aud.streamlit.app/) · [Code](https://github.com/yosras-dotcomAi/REPO-NAME) · [Slides](SLIDESHARE-LINK)
 
-- Google Data Analytics Professional Certificate (Coursera)
-- Microsoft PL-300 (Power BI Data Analyst): in preparation
+*Built only from public data. Independent project, not affiliated with any manufacturer or employer.*
 
-## 📫 Let's talk
+---
 
-If you work on hospital operations, quality, infection prevention, or patient experience analytics, I would love to hear from you.
+### 🏥 1,000-Bed Hospital Capacity Case Study
+A fictional hospital used to practise strategic healthcare analytics: bed capacity, operational performance, an Excel KPI validation model for 10 executive KPIs, and an executive dashboard in Power BI.
 
-[**Connect with me on LinkedIn →**](https://www.linkedin.com/in/yosra-nagar-9a6862118/)
+`Excel` `Power BI`
+
+[Code and files](https://github.com/yosras-dotcomAi/1000-Bed-Hospital-)
+
+### 📈 Health Improvement Programs Analysis
+Do patients who join health improvement programs do better than those who don't? Python scripts, matplotlib charts and a bilingual README on synthetic data.
+
+`Python` `pandas` `matplotlib`
+
+[Code](https://github.com/yosras-dotcomAi/health-improvement-programs-analysis)
+
+### 🤖 AI in Healthcare
+Applying project management skills and AI ideas to improve patient outcomes and operational efficiency.
+
+[Code](https://github.com/yosras-dotcomAi/AI-in-health-care-)
+
+### ⚖️ BMI Calculator
+A Python tool that takes height and weight and classifies BMI using World Health Organization categories.
+
+`Python`
+
+[Code](https://github.com/yosras-dotcomAi/BMI-calculator)
+
+**Also built:** a Hajj medical supplies inventory dashboard (Excel and Power BI) and a Cath Lab Case Tracker workbook with dropdown validation and a pivot-ready structure.
+
+---
+
+## 🛠️ Toolbox
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Google_BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white" alt="BigQuery" />
+  <img src="https://img.shields.io/badge/Git_&_GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+**Healthcare domain:** cardiac cath lab operations · supply and inventory records · Epic EHR analytics
+
+## 🎓 Learning and certifications
+
+- ✅ Google Data Analytics Professional Certificate (Coursera, 2026)
+- ✅ Introduction to Data Analysis Using Python (Google)
+- ✅ Harnessing the Power of Data with Power BI (Microsoft)
+- ✅ Preparing Data for Analysis with Microsoft Excel
+- 🔄 Preparing for Microsoft PL-300 (Power BI Data Analyst)
+
+## 🎙️ Beyond the code
+
+I'm building **Beyond the Nursing**, a podcast for nurses exploring career paths beyond the bedside.
+
+---
+
+<p align="center">
+  💬 Working on healthcare analytics, hospital operations or health strategy? <b><a href="https://www.linkedin.com/in/yosra-nagar-9a6862118/">Let's talk</a></b>.
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B8FD9,100:0B1F3A&height=90&section=footer" alt="footer" />
+</p>
