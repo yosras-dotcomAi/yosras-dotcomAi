@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,100:3B8FD9&height=170&section=header&text=Yosra%20El%20Nagar&fontSize=42&fontColor=ffffff&animation=fadeIn" alt="Yosra El Nagar banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,100:3B8FD9&height=190&section=header&text=Yosra%20El%20Nagar&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=From%20the%20cath%20lab%20to%20healthcare%20data&descSize=18&descAlignY=60&animation=fadeIn" alt="Yosra El Nagar banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=3B8FD9&center=true&vCenter=true&width=640&lines=أهلاً+%F0%9F%91%8B+Hi%2C+I'm+Yosra;Cath+lab+nurse+leader+%E2%86%92+healthcare+data+analyst;I+turn+hospital+data+into+decisions;Python+%C2%B7+Power+BI+%C2%B7+Excel+%C2%B7+SQL" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=3B8FD9&center=true&vCenter=true&width=680&lines=أهلاً+%F0%9F%91%8B+Hi%2C+I'm+Yosra;10%2B+years+in+the+cath+lab+%F0%9F%AB%80;Now+turning+hospital+data+into+decisions+%F0%9F%93%8A;Python+%C2%B7+Power+BI+%C2%B7+Excel+%C2%B7+SQL" alt="Typing intro" />
 </p>
 
 <p align="center">
@@ -14,11 +14,19 @@
 
 ---
 
-## 🩺 → 📊 My story in three lines
+## 🩺 → 📊 My story
 
-I spent **10+ years in cardiac catheterization and critical care**, running a cath lab where supplies, cases and infection control had to be right every single day.
-That taught me how hospitals really work, and where their data goes missing.
+I spent **10+ years in cardiac catheterization and critical care**, running a cath lab where supplies, cases and infection control had to be right every single day. That taught me how hospitals really work, and where their data goes missing.
+
 Now I build **healthcare analytics projects that turn hospital data into decisions**: market models, simulations, risk engines and dashboards.
+
+```mermaid
+flowchart LR
+    A["🫀 Cath lab<br/>10+ years"] --> B["📚 Google Data<br/>Analytics Certificate"]
+    B --> C["🐍 Python<br/>+ Power BI + Excel"]
+    C --> D["📊 Healthcare<br/>analytics projects"]
+    D --> E["🎯 Remote healthcare<br/>data analyst"]
+```
 
 ## 🧬 What the cath lab taught me about data
 
@@ -31,81 +39,132 @@ Now I build **healthcare analytics projects that turn hospital data into decisio
 
 ---
 
-## 🚀 Featured projects
+## 🚀 Featured project
 
-### 🫀 [TAVI-GCC-market-opportunity-mode](https://github.com/yosras-dotcomAi/TAVI-GCC-market-opportunity-mode)
-End-to-end commercial analytics and market sizing model for TAVI across the GCC. It combines a clinical funnel methodology, hospital prioritization scoring and a live dashboard, with uncertainty ranges and a reality check against published Gulf registry data.
+<table>
+<tr>
+<td width="62%">
 
-**Base case:** 9,478 eligible patients · $18.4M annual market value · Saudi Arabia holds about 65% of the 75+ population.
+### 🫀 GCC TAVI Market Opportunity Model
+End-to-end commercial analytics and market sizing for TAVI across the GCC: a clinical funnel, hospital prioritization scoring, uncertainty ranges and a reality check against published Gulf registry data.
 
 `Python` `Streamlit` `Plotly`
 
-[▶ Live dashboard](https://tavi-gcc-market-opportunity-mode-iy7nxbmcjkkcg6eudp7aud.streamlit.app/) · [Code](https://github.com/yosras-dotcomAi/TAVI-GCC-market-opportunity-mode) · [Slides](SLIDESHARE-LINK)
+[▶ **Open the live dashboard**](https://tavi-gcc-market-opportunity-mode-iy7nxbmcjkkcg6eudp7aud.streamlit.app/) · [Code](https://github.com/yosras-dotcomAi/TAVI-GCC-market-opportunity-mode) · [Slides](SLIDESHARE-LINK)
 
-*Built only from public data. Independent project, not affiliated with any manufacturer or employer.*
+<sub>Built only from public data. Independent project, not affiliated with any manufacturer or employer.</sub>
 
----
+</td>
+<td width="38%" align="center">
+
+**9,478**<br/><sub>eligible patients (base case)</sub>
+
+**$18.4M**<br/><sub>annual market value</sub>
+
+**65%**<br/><sub>of the 75+ population is in Saudi Arabia</sub>
+
+</td>
+</tr>
+</table>
+
+## 🧪 More projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🕋 [hajj-supply-readiness](https://github.com/yosras-dotcomAi/hajj-supply-readiness)
-Simulation of medical supply planning for a fictional Hajj field hospital: where plans built on a normal day break down at 5x peak demand. Synthetic data.
-
+Where does a medical supply plan break at **5x peak demand**? A simulation for a fictional Hajj field hospital, on synthetic data.<br/>
 `Python` `Power BI`
 
-### 🫀 [CardioMetabolic-LOS-Engine](https://github.com/yosras-dotcomAi/CardioMetabolic-LOS-Engine)
-Clinical risk stratification and hospital length-of-stay (LOS) impact engine, built with Python for healthcare operational transformation.
+</td>
+<td width="50%" valign="top">
 
+### 🫀 [CardioMetabolic-LOS-Engine](https://github.com/yosras-dotcomAi/CardioMetabolic-LOS-Engine)
+Clinical risk stratification and a hospital length-of-stay impact engine for operational transformation.<br/>
 `Python`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🧫 [cath-lab-access-site-infection](https://github.com/yosras-dotcomAi/cath-lab-access-site-infection)
-An infection control dashboard that explains the infection rate step by step, from my own cath lab experience.
-
+An infection control dashboard that explains the infection rate one step at a time.<br/>
 `Python`
 
-### 🏥 [1000-Bed-Hospital-](https://github.com/yosras-dotcomAi/1000-Bed-Hospital-)
-A fictional 1,000-bed hospital case study on bed capacity and operational performance, built to show strategic analysis skills in healthcare. Includes an Excel KPI validation model and an executive dashboard.
+</td>
+<td width="50%" valign="top">
 
+### 🏥 [1000-Bed-Hospital-](https://github.com/yosras-dotcomAi/1000-Bed-Hospital-)
+A fictional 1,000-bed hospital: bed capacity, operational performance, KPI validation and an executive dashboard.<br/>
 `Excel` `Power BI`
 
-### 📈 [health-improvement-programs-analysis](https://github.com/yosras-dotcomAi/health-improvement-programs-analysis)
-Comparison between patients who take part in health improvement programs and those who don't.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
+### 📈 [health-improvement-programs-analysis](https://github.com/yosras-dotcomAi/health-improvement-programs-analysis)
+Do patients in health improvement programs do better than those who aren't?<br/>
 `Python` `matplotlib`
 
-➡️ [See all my repositories](https://github.com/yosras-dotcomAi?tab=repositories)
+</td>
+<td width="50%" valign="top">
+
+### 📂 [Everything else](https://github.com/yosras-dotcomAi?tab=repositories)
+Learning repos, practice projects and experiments live here.<br/>
+`17 repositories`
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Toolbox
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Google_BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white" alt="BigQuery" />
-  <img src="https://img.shields.io/badge/Git_&_GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="BigQuery" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-**Healthcare domain:** cardiac cath lab operations · infection control · supply and inventory planning · Epic EHR analytics
+**🏥 Healthcare domain:** cardiac cath lab operations · infection control · supply and inventory planning · Epic EHR analytics
 
-## 🎓 Learning and certifications
+## 🌱 Right now
+
+- 📜 Preparing for **Microsoft PL-300** (Power BI Data Analyst)
+- 🏗️ Growing my healthcare analytics portfolio, one real hospital problem at a time
+- 🎙️ Building **Beyond the Nursing**, a podcast for nurses exploring careers beyond the bedside
+
+<details>
+<summary><b>🎓 Certifications and learning</b></summary>
+
+<br/>
 
 - ✅ Google Data Analytics Professional Certificate (Coursera, 2026)
 - ✅ Introduction to Data Analysis Using Python (Google)
 - ✅ Harnessing the Power of Data with Power BI (Microsoft)
 - ✅ Preparing Data for Analysis with Microsoft Excel
-- 🔄 Preparing for Microsoft PL-300 (Power BI Data Analyst)
+- 🔄 Microsoft PL-300 (in preparation)
 
-## 🎙️ Beyond the code
+</details>
 
-I'm building **Beyond the Nursing**, a podcast for nurses exploring career paths beyond the bedside.
+## 💬 Ask me about
+
+Cath lab operations · moving from clinical work into data · building a healthcare analytics portfolio · hospital supply and capacity planning
 
 ---
 
 <p align="center">
-  💬 Working on healthcare analytics, hospital operations or health strategy? <b><a href="https://www.linkedin.com/in/yosra-nagar-9a6862118/">Let's talk</a></b>.
+  <b>Working on healthcare analytics, hospital operations or health strategy?</b><br/>
+  <a href="https://www.linkedin.com/in/yosra-nagar-9a6862118/">💬 Let's talk on LinkedIn</a>
 </p>
 
 <p align="center">
