@@ -3,7 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=3B8FD9&center=true&vCenter=true&width=680&lines=أهلاً+%F0%9F%91%8B+Hi%2C+I'm+Yosra;10%2B+years+in+the+cath+lab+%F0%9F%AB%80;Now+turning+hospital+data+into+decisions+%F0%9F%93%8A;Python+%C2%B7+Power+BI+%C2%B7+Excel+%C2%B7+SQL" alt="Typing intro" />
+  <b>🫀 10+ years in the cath lab &nbsp;→&nbsp; 📊 turning hospital data into decisions</b><br/>
+  <sub>Python · Power BI · Excel · SQL &nbsp;|&nbsp; أهلاً 👋 أنا يسرا</sub>
 </p>
 
 <p align="center">
