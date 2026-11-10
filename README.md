@@ -1,18 +1,9 @@
-<p align="center">
-  <img src="assets/banner.svg" alt="Yosra El Nagar: from the cath lab to healthcare data" width="100%" />
-</p>
+<img width="1200" height="280" alt="banner" src="https://github.com/user-attachments/assets/e091b2ad-bd1a-42f0-92f8-cf72e5cc12e7" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/yosra-nagar-9a6862118/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <img src="https://img.shields.io/badge/Based_in-Riyadh_🇸🇦-1B3A5C?style=for-the-badge" alt="Riyadh" />
-  <img src="https://img.shields.io/badge/Open_to-Remote_Healthcare_Analytics-2C9C93?style=for-the-badge" alt="Open to remote healthcare analytics" />
-</p>
-
-<p align="center">
-  <img src="assets/stats.svg" alt="10+ years in the cath lab, 6 projects, 4 dashboards, Google Data Analytics Certificate" width="100%" />
-</p>
-
----
+<img width="580" height="250" alt="card-cathlab" src="https://github.com/user-attachments/assets/8498135f-c399-4f76-abf6-dc3457a5b80c" /><img width="1200" height="90" alt="footer" src="https://github.com/user-attachments/assets/1b61dca5-6a9d-4ca7-bcd8-d29cc08a6ccd" />
+<img width="580" height="250" alt="card-hospital" src="https://github.com/user-attachments/assets/e8b4d81c-c952-4183-8c79-83ee56071bc3" />
+<img width="580" height="250" alt="card-tavi" src="https://github.com/user-attachments/assets/0b20a958-a562-4252-85bc-c02d05ca4677" />
+<img width="580" height="250" alt="card-hajj" src="https://github.com/user-attachments/assets/b4ddda81-d0dd-4e88-ab96-9928d10d2297" />
 
 ## 🩺 → 📊 My story
 
