@@ -1,24 +1,31 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/e091b2ad-bd1a-42f0-92f8-cf72e5cc12e7" alt="Banner" width="100%" />
 
-  # 🩺 Healthcare Data Analyst | Ex-Cath Lab Specialist
+<img width="100%" alt="banner" src="https://github.com/user-attachments/assets/e091b2ad-bd1a-42f0-92f8-cf72e5cc12e7" />
 
-  **Bridging 10+ years of bedside critical care & cardiac cath lab expertise with healthcare data analytics.**
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Healthcare_Data_Analyst-00758F?style=for-the-badge&logo=mediculus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Domain-Cath_Lab_%26_ICU-FF4B4B?style=for-the-badge&logo=heartbeat&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Riyadh,_KSA-006C35?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Hospital_Operations_%26_Simulations-8A2BE2?style=for-the-badge&logo=analytics&logoColor=white" />
+</p>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yosra-nagar-9a6862118/)
-  [![Portfolio](https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github)](https://github.com/yosras-dotcomAi?tab=repositories)
-  [![Podcast](https://img.shields.io/badge/Podcast-Beyond_Nursing-FF8C00?style=for-the-badge&logo=podcast)](https://beyondnursingyn.com)
 </div>
 
----
+## 🩺 → 📊 My story
 
-## 👋 About Me
+I spent **10+ years in cardiac catheterization and critical care**, running a cath lab where supplies, cases and infection control had to be right every single day. That taught me how hospitals really work, and where their data goes missing.
 
-I spent over a decade running cardiac catheterization labs and critical care units—managing clinical supply chains, emergency workflows, and infection control standards. Today, I turn complex hospital and EHR data into actionable operational models, interactive dashboards, and decision engines for healthcare systems.
+Now I build **healthcare analytics projects that turn hospital data into decisions**: market models, simulations, risk engines and interactive dashboards. أهلاً 👋
 
 ```mermaid
 flowchart LR
-    A["🫀 10+ Yrs Clinical Lead<br/>(Cath Lab & ICU)"] --> B["📚 Google Data Analytics<br/>Certified"]
-    B --> C["🐍 Advanced Stack<br/>(Python, SQL, Power BI)"]
-    C --> D["📊 Healthcare Analytics<br/>& Operational Modeling"]
-    D --> E["🎯 Remote Healthcare<br/>Data Analyst"]
+    A["🫀 Cath lab<br/>10+ years"] --> B["📚 Google Data<br/>Analytics Certificate"]
+    B --> C["🐍 Python, SQL<br/>Power BI, Excel"]
+    C --> D["📊 Healthcare<br/>analytics projects"]
+    D --> E["🎯 Remote healthcare<br/>data analyst"]
+
+    style A fill:#FF4B4B,stroke:#333,stroke-width:2px,color:#fff
+    style B fill:#00758F,stroke:#333,stroke-width:2px,color:#fff
+    style C fill:#F2C811,stroke:#333,stroke-width:2px,color:#000
+    style D fill:#8A2BE2,stroke:#333,stroke-width:2px,color:#fff
+    style E fill:#006C35,stroke:#333,stroke-width:2px,color:#fff
